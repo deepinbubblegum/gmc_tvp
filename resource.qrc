@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="img">
+    <file>kubotalogo.png</file>
+    <file>joinmaxlogo2.png</file>
+    <file>setting.png</file>
+  </qresource>
+</RCC>
